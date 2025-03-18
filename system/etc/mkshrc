@@ -19,3 +19,4 @@ PS4='[$EPOCHREALTIME] '; PS1='${|
 
 export TERM=xterm-256color
 export XDG_CONFIG_HOME="/data/local/tmp/configs"
+
