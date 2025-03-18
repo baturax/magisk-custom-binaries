@@ -3,6 +3,8 @@
 CONFIGS_DIR="/data/local/tmp/configs"
 BIN_DIR="/system/bin"
 
-rm -rf $BIN_DIR/vim
-rm -rf $BIN_DIR/bin/btop
-rm -rf $CONFIGS_DIR
+rm $BIN_DIR/vim
+rm $BIN_DIR/btop
+rm $BIN_DIR/micro
+
+rm $CONFIGS_DIR
