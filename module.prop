@@ -4,3 +4,7 @@ version=yok
 versionCode=31
 author=Bai
 description=Custom Binaries Built as Static for Android
+updateJson= {
+    "version": "https://github.com/baturax/magisk-custom-binaries/archive/refs/heads/main.zip"
+    "changelog": "https://github.com/baturax/magisk-custom-binaries"
+}
