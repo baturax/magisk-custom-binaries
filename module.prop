@@ -1,0 +1,6 @@
+id=my-custom-binary
+name=Custom Bloat Binary
+version=yok
+versionCode=31
+author=Bai
+description=Custom Binaries Built as Static for Android
