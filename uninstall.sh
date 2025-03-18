@@ -7,6 +7,7 @@ MODDIR=${0%/*}
 rm $BIN_DIR/vim
 rm $BIN_DIR/btop
 rm $BIN_DIR/micro
+rm $BIN_DIR/git
 
 rm $CONFIGS_DIR
 

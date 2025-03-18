@@ -1,3 +1,9 @@
-export CGO_ENABLED=0
+Built with:
 
-make build
+export cgo_enabled=0
+
+make build -j8
+
+make clean
+
+Binary is in the same directory
