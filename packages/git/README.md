@@ -6,9 +6,9 @@ export CFLAGS="${CFLAGS} -static"
 
 make configure
 
-mkdir /root/output
+mkdir output
 
-./configure --prefix=/root/output
+./configure --prefix=/home/bai/packages/git/output
 
 make -j8
 
