@@ -1,8 +1,8 @@
-EXPORT NO_OPENSSL=1
+export NO_OPENSSL=1
 
-EXPORT NO_CURL=1
+export NO_CURL=1
 
-EXPORT CFLAGS="${CFLAGS} -static"
+export CFLAGS="${CFLAGS} -static"
 
 make configure
 
