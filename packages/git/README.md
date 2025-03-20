@@ -8,7 +8,7 @@ make configure
 
 mkdir /root/output
 
-./configure / prefix=/root/output
+./configure --prefix=/root/output
 
 make -j8
 
