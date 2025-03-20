@@ -8,7 +8,7 @@ make configure
 
 mkdir output
 
-./configure --prefix=/home/bai/packages/git/output
+./configure --prefix=/home/bai/packages/git/output --without-tcltk
 
 make -j8
 
