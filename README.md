@@ -1,15 +1,19 @@
-built with latest git and on a Redmi Note 10
+# Custom Binaries for Magisk
 
-You can find build instructions in each package's readme.md
+## Built With latest git commits
 
-Just clone packages and build them if you wish so
+### You can check each package's readme.md to see how they are built.
 
-existing packages:
+It also uses alias to use magisk's built in busybox:
+> alias busybox=/data/adb/magisk/busybox
 
-vim
+I added my own customizations to shell
 
-btop
+## Changelog
+* See [Commits](https://github.com/baturax/magisk-custom-binaries/commits/main/)
 
-micro
+## Credits
+* [Baturax](https://github.com/baturax/)
 
-git
+## Source Code
+* https://github.com/baturax/magisk-custom-binaries
