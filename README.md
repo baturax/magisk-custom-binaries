@@ -17,3 +17,9 @@ I added my own customizations to shell
 
 ## Source Code
 * https://github.com/baturax/magisk-custom-binaries
+
+### Built packages:
+* vim
+* btop
+* git
+* micro
