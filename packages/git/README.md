@@ -16,4 +16,4 @@ make install
 
 make clean
 
-Binary is in : /root/output/bin
+Binary is in : /home/bai/packages/git/output
